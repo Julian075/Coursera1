@@ -36,6 +36,8 @@
         android:layout_width="300dp"
         android:layout_height="65dp"
         android:text="@string/Bienvenido"
+        android:textSize="30sp"
+        android:textStyle="bold"
         tools:layout_editor_absoluteX="130dp"
         tools:layout_editor_absoluteY="181dp" />
 
